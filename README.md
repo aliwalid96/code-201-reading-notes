@@ -7,6 +7,7 @@
 |class 03 page |[class 03page](https://aliwalid96.github.io/code-201-reading-notes/class-03)|
 |class04page|[class04page](https://aliwalid96.github.io/code-201-reading-notes/claas-04)|
 |page class 05|[class05](https://aliwalid96.github.io/code-201-reading-notes/class-05)|
+|class 06 page |[class05](https://aliwalid96.github.io/code-201-reading-notes/class-06)|
 
 
 # mark down feature 
